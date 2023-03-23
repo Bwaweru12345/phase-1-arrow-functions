@@ -5,6 +5,6 @@ let divide = function(){
 divide()
 
 
-let square = num1 => num1 * num1
+let square = num1 => (num1 * num1)
 
 let add = (a, b) => a + b
